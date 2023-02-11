@@ -59,9 +59,10 @@ nav ul li a:hover::after{
     width: 100%;
 }
 .header-text{
-    margin-top: 20%;
-    font-size: 30px;
+    margin-top: 15%;
+    font-size: 30px;   
 }
+
 .header-text h1{
     font-size: 60px;
     margin-top: 20px;
@@ -327,11 +328,11 @@ nav .fa-solid {
         background-image: url(images/phone-background.png);
     }
     .header-text{
-        margin-top: 100%;
-        font-size: 16px;
+        margin-top: 30%;
+        font-size: 30px;
     }
     .header-text h1{
-        font-size: 30px;
+        font-size: 40px;
     }
     nav .fa-solid {
         display: block;
